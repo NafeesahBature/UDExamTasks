@@ -1,0 +1,6 @@
+Android exam tasks
+
+1. Create a new button in the MainActivity. If pressed write out a short text onto the screen in a Toast.
+2. Create a new activity and start it with the previous button.
+3. Create an EditText field on the MainActivity and pass the given text to your new activity (show this text on the new activity).
+4. Create a Service and start it when you start your new activity. Create az EditText field and a Button here and print the given text in a Toast from the Service class.
